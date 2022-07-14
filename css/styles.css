@@ -258,6 +258,18 @@ p {
     fill: #000;
 }
 
+.modal-title {
+    font-family: Roboto;
+    font-weight: 700; 
+    font-size:  20px;
+    line-height: 1.15; 
+    Letter-spacing: 0.03em;
+}
+
+
+
+
+
 .main-section-li {
     width: 270px;
 }
